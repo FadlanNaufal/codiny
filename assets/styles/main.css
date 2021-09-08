@@ -1,0 +1,128 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar .navbar-brand {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.navbar-brand {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: 600;
+}
+
+.section-hero .hero-subtitle {
+  margin-top: 40px;
+}
+
+.section-hero .btn-contact {
+  border: 0px;
+  margin-top: 15px;
+  border-radius: 8px;
+  padding: 15px 30px;
+  background-color: #E84C3D;
+}
+
+.section-services {
+  margin-top: 70px;
+}
+
+.section-services .section-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.section-services .section-subtitle {
+  margin-top: 8px;
+  font-weight: 300;
+}
+
+.section-services .card-service {
+  border: 0px;
+}
+
+.section-services .card-service:hover {
+  box-shadow: 3px 14px 16px -1px rgba(0, 0, 0, 0.11);
+  -webkit-box-shadow: 3px 14px 16px -1px rgba(0, 0, 0, 0.11);
+  -moz-box-shadow: 3px 14px 16px -1px rgba(0, 0, 0, 0.11);
+  -webkit-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
+.section-services .card-service .service-title {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.section-services .card-service .service-desc {
+  margin-top: 30px;
+  font-weight: 300;
+}
+
+.section-about {
+  margin-top: 70px;
+}
+
+.section-about .section-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.section-about .section-subtitle {
+  margin-top: 8px;
+  font-weight: 300;
+}
+
+.section-portfolio {
+  margin-top: 80px;
+}
+
+.section-portfolio .section-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.section-portfolio .section-subtitle {
+  margin-top: 8px;
+  font-weight: 300;
+}
+
+.section-portfolio .work-item .item-link {
+  text-decoration: none;
+}
+
+.section-portfolio .work-item .work-image img {
+  max-width: 100%;
+}
+
+.section-portfolio .work-item .work-text {
+  margin-top: 20px;
+}
+
+.section-portfolio .work-item .work-text .work-title {
+  margin-bottom: 10px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: #000;
+}
+
+.section-portfolio .work-item .work-text .work-detail {
+  font-size: 14px;
+  color: #000;
+  text-decoration: underline;
+}
+
+.section-footer {
+  background-color: #E84C3D;
+  color: white;
+}
+
+.section-footer a {
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */
